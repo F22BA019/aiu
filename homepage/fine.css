@@ -1,0 +1,16 @@
+#midasi {
+    text-align: center;
+    font-family: "Yu Mincho";
+    font-size: 30px;
+}
+.zikosyo{
+    display: flex;
+}
+.zikosyo #zibun {
+    padding: 50px;
+    width: 250px;
+    height: 320px;
+}   
+.zikosyo #setumei {
+    text-indent: 140px;
+}
